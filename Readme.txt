@@ -5,4 +5,5 @@ add more functionalities.
 
 ** I've added the form validation functionality at the bottom of the page and included js file but commented it out.
 
-** couldnot work on responsiveness of the website due to less time.
+** Since I am an Angular developer I've implemented contact (form) logic already please check this link out.
+https://github.com/arbazkhan18/Angular-Material-Forms
